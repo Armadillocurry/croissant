@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family:"monospace"
+
+}
+.sudo{
+    position: absolute;
+    left: 50px;
+    top:50px;
+    cursor: pointer;
+}
+.superman{
+    -webkit-text-fill-color: black;font-family: monospace;
+}
